@@ -1,6 +1,6 @@
 # 4.3. Git Ways of working
 
-Each team must write the code in the `ToyController` and `UserController` classes to make the tests pass. 
+Each team must write the code in the `ToyController` and `CustomerController` classes to make the tests pass. 
 
 You can run the tests by doing:
 
