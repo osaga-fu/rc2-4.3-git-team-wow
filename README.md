@@ -14,7 +14,7 @@ These are the API methods that you must implement
 | ---- | ------ | --------------------- | -------------------------------------------------- |
 | No   | GET    | /api/v1/toys          | Returns a list of ToyResponse objects              |
 | No   | GET    | /api/v1/toys/:id      | Returns a ToyResponse for the object with id `:id` |
-| No   | POST   | /api/v1/toys          | Create a Toy                                       |
+| Olaya| POST   | /api/v1/toys          | Create a Toy                                       |
 | No   | PUT    | /api/v1/toys/:id      | Edit the toy with id `:id`                         |
 | No   | DELETE | /api/v1/toys          | Delete the toy with id `:id`                       |
 | No   | GET    | /api/v1/customers     | Returns a list of ToyResponse objects              |
